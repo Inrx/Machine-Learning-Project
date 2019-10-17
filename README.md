@@ -28,8 +28,6 @@ All the notebooks can be found in the respective folder.
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-Overall we intended to understand how climate event impact business, in particular energy companies.
-
 After the initial analysis of the data available other two hypothesis arose:
 1. What are the most relevant features to become a software developer?
 2. Are Bootcamps relevant to get a software development job?
